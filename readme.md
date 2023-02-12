@@ -1,0 +1,1 @@
+In this repository, I will collect all the templates I usually use. Every project will have a readme with images to recognize them more quickly and an explanation or comment about the development.
